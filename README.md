@@ -71,9 +71,9 @@ The project includes several visualizations:
 - Data cleaning improved the quality of the dataset for analysis.
 
 ## 📷 Project Screenshots
-### Movies vs TV Shows:-movies_vs_tvshow.png              
-### Top Countries:-top_countries.png
-### Ratings Distribution:-rating_distrubution.png
+![Movies vs TV Shows](movies_vs_tvshow.png)              
+![Top Countries](top_countries.png)
+![Ratings Distribution](rating_distrubution.png)
 
 Open the notebook here:
 https://github.com/priya666rout-lab/Data-Cleaning-and-Visualization/blob/main/thiranex.ipynb
